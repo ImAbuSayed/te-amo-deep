@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/te-amo-deep/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Te Amo Deep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/te-amo-deep/) |
+| **Get License** | [Get License For Te Amo Deep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/te-amo-deep/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Rat haneri vich look at you, main takda tera mukhda
+> Thandi hawa de naal catch my breath, mera dil jaave rukda
+> Tere naina di chamak so bright, karda main ishaara
+> Tu vi takdi mainu feel the heat, jagda ae jag saara
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
