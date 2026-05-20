@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/te-amo-deep/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Te Amo Deep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/te-amo-deep/) |
+| **Get License** | [Request Licensing for Te Amo Deep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/te-amo-deep/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `05a02dfd5e6dcda9b44e7915b2fe8a40c8c70911c06553baa03c33e260b9704e` |
 | **Timestamp** | May 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
